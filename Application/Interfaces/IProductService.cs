@@ -1,0 +1,12 @@
+using System.Net.Http.Headers;
+using Infrastructure.Dto;
+
+
+namespace Application.Interfaces;
+public interface IProductService
+{
+    Task<List<ProductDto>> GetAll();
+    Task<ProductDto> Get(int id);
+    Task<ProductDto> Add(ProductDto model);
+
+}

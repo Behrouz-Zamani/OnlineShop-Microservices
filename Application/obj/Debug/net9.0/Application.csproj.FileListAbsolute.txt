@@ -1,0 +1,17 @@
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Application.deps.json
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Application.dll
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Application.pdb
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Core.dll
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Infrastructure.dll
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Core.pdb
+D:\Test\MicroServices\OnlineShop\Application\bin\Debug\net9.0\Infrastructure.pdb
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.dll
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\refint\Application.dll
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\Application.pdb
+D:\Test\MicroServices\OnlineShop\Application\obj\Debug\net9.0\ref\Application.dll
