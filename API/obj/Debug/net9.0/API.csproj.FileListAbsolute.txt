@@ -160,6 +160,7 @@ D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\API.AssemblyInfo.cs
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\API.sourcelink.json
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\Test\MicroServices\OnlineShop\api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

@@ -8,11 +8,14 @@ namespace Api.Controllers;
 [Route("api/[controller]")]
 public class ProductCqrsColntroller : ControllerBase
 {
-    private readonly IMediator _mediator;
+    #region CTOR
+            private readonly IMediator _mediator;
     public ProductCqrsColntroller(IMediator mediator)
     {
         _mediator=mediator;
     }
+    #endregion
+
 
     [HttpPost]
     public async Task<IActionResult> Create(SaveProductCommand command)

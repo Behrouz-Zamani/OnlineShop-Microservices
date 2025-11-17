@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\MicroServices\\OnlineShop\\API\\API.csproj": {}
+    "D:\\Test\\MicroServices\\OnlineShop\\api\\API.csproj": {}
   },
   "projects": {
-    "D:\\Test\\MicroServices\\OnlineShop\\API\\API.csproj": {
+    "D:\\Test\\MicroServices\\OnlineShop\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MicroServices\\OnlineShop\\API\\API.csproj",
+        "projectUniqueName": "D:\\Test\\MicroServices\\OnlineShop\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Test\\MicroServices\\OnlineShop\\API\\API.csproj",
+        "projectPath": "D:\\Test\\MicroServices\\OnlineShop\\api\\API.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MicroServices\\OnlineShop\\API\\obj\\",
+        "outputPath": "D:\\Test\\MicroServices\\OnlineShop\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

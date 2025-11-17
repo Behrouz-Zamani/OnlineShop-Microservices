@@ -9,6 +9,7 @@ public static class DIRegister
     public static void AddRepository(this IServiceCollection services)
     {
         services.AddScoped<IProductRepository,ProductRepository>();
+        services.AddScoped<IUserRepository,Userrepository>();
     }
 
     public static void AddUnitOfWork(this IServiceCollection services)

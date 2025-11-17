@@ -16,7 +16,7 @@ public class Userrepository : IUserRepository
     {
         await _context.Users.AddAsync(command);
         await _context.SaveChangesAsync();
-        return command.Id;
+        return 200;
 
     }
 

@@ -9,7 +9,7 @@ public class ProductRepository : IProductRepository
     private readonly OnlineShopDbContext _context;
     public ProductRepository(OnlineShopDbContext context)
     {
-_context=context;
+        _context=context;
     }
     public async Task<Product> GetAsync(int id)
     {
